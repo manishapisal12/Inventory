@@ -1,0 +1,12 @@
+com\mastek\Service\ProductService.class
+com\mastek\Dao\ProductRowMapper.class
+com\mastek\model\Orders.class
+com\mastek\Dao\IDao.class
+com\mastek\controller\ProductController.class
+com\mastek\advice\AOPDemo.class
+com\mastek\Dao\ProductDao.class
+com\mastek\Dao\DBC_connection.class
+com\mastek\model\Order_items.class
+com\mastek\config\WebServletConfiguration.class
+com\mastek\model\Product.class
+com\mastek\config\AppConfig.class
